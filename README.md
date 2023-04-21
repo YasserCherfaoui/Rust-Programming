@@ -8,5 +8,5 @@ I am a self-paced learner, and I like reading documentation and books more than 
 ```
 rustup doc --book
 ```
-- Programming Rust, 2nd Edition (1492052590).
+- Programming Rust, 2nd Edition (ISBN: 1492052590).
 
